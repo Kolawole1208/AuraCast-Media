@@ -1,6 +1,11 @@
-# AuraCast Developer API Documentation (v2.50)
+# AuraCast Developer API Documentation (v2.5)
 
 The **AuraCast Developer API** allows developers and enterprise engineering teams to programmatically interact with the AuraCast marketing engine. You can fetch system metrics, generate AI content packages, manage scheduled posts, trigger webhooks, and query brand blueprints.
+
+## Version History
+
+- **v2.0** — Foundation release for the AuraCast API and core marketing engine capabilities.
+- **v2.5** — Latest update with enhanced platform features, refined AI workflow support, and more production-ready engine behavior.
 
 ---
 

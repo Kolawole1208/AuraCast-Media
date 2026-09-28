@@ -1,6 +1,13 @@
-# AuraCast — Autonomous AI Social Marketing Operating System (v2.50)
+# AuraCast — Autonomous AI Social Marketing Operating System (v2.5)
 
 **AuraCast** is an enterprise-grade, end-to-end autonomous AI marketing operating system. It transforms brand concepts into multi-channel social growth playbooks, custom-branded visual cards, viral text captions, video storyboards, scheduled calendar posts, unified customer inbox management, and revenue conversion analytics.
+
+---
+
+## 🧾 Version History
+
+- **v2.0** — Initial major release with the core AuraCast operating system, onboarding flow, campaign planning, content studio, and social analytics foundation.
+- **v2.5** — Latest update with production-ready polish, expanded automation modules, smarter AI workflows, and an improved enterprise-style dashboard experience.
 
 ---
 

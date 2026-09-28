@@ -1572,7 +1572,7 @@ export default function App() {
       <footer className="max-w-7xl w-full mx-auto px-6 pb-6 pt-4 border-t border-slate-200 text-center flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-500 font-sans">
         <div className="flex items-center gap-1.5">
           <Sparkles className="w-3.5 h-3.5 text-blue-600" />
-          <span>AuraCast Enterprise OS <span className="font-semibold text-slate-700">v2.50</span></span>
+          <span>AuraCast Enterprise OS <span className="font-semibold text-slate-700">v2.5</span></span>
         </div>
         <div>
           <span>Multi-Channel Social Operations & Meta Graph Publishing</span>
