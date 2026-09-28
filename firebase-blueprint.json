@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User profile in the AuraCast marketing workspace",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "displayName": { "type": "string" },
+        "role": { "type": "string", "enum": ["owner", "admin", "editor", "viewer"] },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["uid", "email"]
+    },
+    "Topic": {
+      "title": "Topic",
+      "description": "Daily social media post topic and generated assets",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "topic": { "type": "string", "maxLength": 500 },
+        "date": { "type": "string" },
+        "status": { "type": "string", "enum": ["draft", "generating", "generated", "ai_generated", "scheduled", "published", "failed", "needs_approval"] },
+        "publishChannels": { "type": "array" },
+        "toneGoal": { "type": "string" },
+        "scheduledFor": { "type": "string" },
+        "publishedAt": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "userId", "topic", "status"]
+    },
+    "Campaign": {
+      "title": "Campaign",
+      "description": "Autonomous multi-day marketing campaign",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "campaignName": { "type": "string", "maxLength": 200 },
+        "objective": { "type": "string" },
+        "durationDays": { "type": "number" },
+        "status": { "type": "string", "enum": ["draft", "review", "approved", "active", "completed"] },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "userId", "campaignName", "status"]
+    },
+    "Strategy": {
+      "title": "Strategy",
+      "description": "Comprehensive marketing strategy and content pillars",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "brandNameOrNiche": { "type": "string", "maxLength": 200 },
+        "postingFrequency": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "userId", "brandNameOrNiche"]
+    },
+    "ActivityLog": {
+      "title": "ActivityLog",
+      "description": "Operational audit log for publishing, generation, and errors",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "action": { "type": "string" },
+        "status": { "type": "string" },
+        "message": { "type": "string", "maxLength": 1000 },
+        "timestamp": { "type": "string" }
+      },
+      "required": ["id", "userId", "action", "status", "message", "timestamp"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": { "$ref": "#/entities/User" },
+      "description": "User profile documents"
+    },
+    "/users/{userId}/topics/{topicId}": {
+      "schema": { "$ref": "#/entities/Topic" },
+      "description": "Daily post topics created by the user"
+    },
+    "/users/{userId}/campaigns/{campaignId}": {
+      "schema": { "$ref": "#/entities/Campaign" },
+      "description": "Autonomous multi-day campaigns"
+    },
+    "/users/{userId}/strategies/{strategyId}": {
+      "schema": { "$ref": "#/entities/Strategy" },
+      "description": "Marketing strategies belonging to user"
+    },
+    "/users/{userId}/logs/{logId}": {
+      "schema": { "$ref": "#/entities/ActivityLog" },
+      "description": "Activity logs for the user's workspace"
+    }
+  }
+}

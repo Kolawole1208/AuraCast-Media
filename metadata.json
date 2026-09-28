@@ -1,0 +1,6 @@
+{
+  "name": "Daily Social Media Publisher",
+  "description": "Drop a topic every day, and let AI automatically generate beautiful graphics, captions, and short-form video scripts and schedule/publish them to Facebook, Instagram, Twitter, and YouTube, protected by a secure Firebase multi-user workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

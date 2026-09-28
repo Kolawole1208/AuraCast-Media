@@ -1,0 +1,585 @@
+{
+  "users": {
+    "szUiGwT81uOPhCQnfiaye4EEvwl1": {
+      "topics": [
+        {
+          "id": "topic_1786003741476",
+          "topic": "The importance of recycle bin in computer",
+          "date": "2026-08-06",
+          "status": "generated",
+          "publishChannels": [
+            "facebook",
+            "instagram",
+            "whatsapp"
+          ],
+          "toneGoal": "conversational",
+          "generatedContent": {
+            "caption": "Ever feel like your computer's getting a bit cluttered? We all hit that delete button, but sometimes those files just need a temporary home before they're gone for good! That's where your trusty Recycle Bin comes in. It's like a safety net for your digital life, giving you a second chance to rescue accidentally deleted treasures. Do you regularly clear your Recycle Bin, or are you a digital hoarder?",
+            "hashtags": [
+              "#RecycleBinSolution",
+              "#TechTips",
+              " #DigitalDeclutter",
+              " #ComputerMaintenance",
+              " #ProductivityHacks"
+            ],
+            "graphicType": "card",
+            "graphicText": "Don't just delete, recycle! Your digital space will thank you for it.",
+            "graphicTitle": "DIGITAL SANCTUARY",
+            "graphicDesign": {
+              "bgColor": "#2C3E50",
+              "textColor": "#ECF0F1",
+              "accentColor": "#3498DB",
+              "layoutFamily": "sans",
+              "pattern": "waves"
+            },
+            "videoScript": {
+              "title": "Recycle Bin: Your Digital Safety Net",
+              "visualPrompt": "A clean, modern animation style with clear, appealing graphics.",
+              "narration": [
+                "We all hit delete, right? But sometimes, oops, that wasn't the file you meant to send packing!",
+                "That's where your computer's Recycle Bin steps in! Think of it as your digital safety net, catching all those 'deleted' files.",
+                "It gives you a second chance to recover important documents, photos, or even that meme you accidentally binned.",
+                "So, remember to use it wisely! Do you always empty your Recycle Bin, or do you keep a digital archive in there?"
+              ],
+              "visualStory": [
+                "Opening scene: Hand hovering over a delete button on a computer screen, a worried expression on a cartoon face.",
+                "Transition: A visual representation of files floating into a brightly animated recycle bin icon.",
+                "Action: Files being effortlessly dragged out of the recycle bin and back onto a desktop, showing relief.",
+                "Closing scene: The recycle bin icon winking, with text overlay: 'Your Digital Safety Net!' and a question mark. Upbeat music."
+              ],
+              "musicMood": "Upbeat and helpful",
+              "durationSeconds": 25
+            }
+          }
+        },
+        {
+          "id": "topic_1",
+          "topic": "The Power of Consistency in Creative Work",
+          "date": "2026-06-21",
+          "status": "published",
+          "publishChannels": [
+            "facebook",
+            "instagram"
+          ],
+          "publishedAt": "2026-06-21T17:15:00.000Z",
+          "generatedContent": {
+            "caption": "Consistency beats talent when talent doesn't work hard. Every single day you spend honing your craft is a step closer to mastery. What are you focused on today? 👇",
+            "hashtags": [
+              "Creativity",
+              "Habits",
+              "GrowthMindset",
+              "Productivity"
+            ],
+            "graphicType": "quote",
+            "graphicText": "Consistency is the secret sauce. Rome was not built in a day, but they laid bricks every single hour.",
+            "graphicTitle": "DAILY INSIGHT",
+            "graphicDesign": {
+              "bgColor": "#1e1e2e",
+              "textColor": "#cdd6f4",
+              "accentColor": "#89b4fa",
+              "layoutFamily": "mono",
+              "pattern": "dots"
+            },
+            "videoScript": {
+              "title": "Why Consistency Always Wins",
+              "visualPrompt": "Close-up of a drop of water carving a smooth canyon through stone, stylized, calm mood",
+              "narration": [
+                "Ever wonder why some talented people never break through?",
+                "It's because they depend on inspiration, not systems.",
+                "A drop of water carves a canyon not through force, but through relentless repetition.",
+                "Pick one small task today, do it for just 15 minutes, and feel the power of consistency."
+              ],
+              "visualStory": [
+                "Extreme close up of concrete dripping under elegant rain",
+                "Split-screen of journaling on paper next to screen layout",
+                "Timelapse of design sketches taking shape instantly",
+                "Minimal bold typographic layout: JUST 15 MINUTES DAILY"
+              ],
+              "musicMood": "Chill Instrumental Lofi",
+              "durationSeconds": 30
+            }
+          }
+        }
+      ],
+      "channels": [
+        {
+          "id": "facebook",
+          "name": "Facebook Page",
+          "connected": true,
+          "username": "ABEL Creatives Hub",
+          "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "instagram",
+          "name": "Instagram Business",
+          "connected": true,
+          "username": "@abel.creatives",
+          "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "whatsapp",
+          "name": "WhatsApp Direct Share",
+          "connected": true,
+          "username": "07066332626",
+          "avatarUrl": "https://images.unsplash.com/photo-1575089980681-5418b76c1154?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "twitter",
+          "name": "X / Twitter",
+          "connected": true,
+          "username": "@creative_tweets",
+          "avatarUrl": "https://images.unsplash.com/photo-1611605698335-8b1569810432?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "youtube",
+          "name": "YouTube Shorts",
+          "connected": true,
+          "username": "AuraChannel",
+          "avatarUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=150&h=150"
+        }
+      ],
+      "logs": [
+        {
+          "id": "log_1786003749321_ai",
+          "topicId": "topic_1786003741476",
+          "topicTitle": "The importance of recycle bin in computer",
+          "action": "generation",
+          "status": "success",
+          "message": "Social blueprints generated by Daily Creative Agent. Captions, Quote Card styling, and Short-form video Storyboards ready.",
+          "timestamp": "2026-08-06T08:09:09.321Z"
+        },
+        {
+          "id": "log_1786003741476",
+          "topicId": "topic_1786003741476",
+          "topicTitle": "The importance of recycle bin in computer",
+          "action": "generation",
+          "status": "processing",
+          "message": "Topic topic received [Tone Goal: conversational]. Instantiating creative assistant background agent...",
+          "timestamp": "2026-08-06T08:09:01.476Z"
+        },
+        {
+          "id": "log_1",
+          "topicId": "topic_1",
+          "topicTitle": "The Power of Consistency in Creative Work",
+          "channel": "facebook",
+          "action": "posting",
+          "status": "success",
+          "message": "Successfully published caption and custom graphic card layout.",
+          "timestamp": "2026-06-21T17:15:00.000Z"
+        }
+      ]
+    },
+    "cIdptSVRRXTvMMGLgjnSsyBSIaF3": {
+      "topics": [
+        {
+          "id": "topic_1",
+          "topic": "The Power of Consistency in Creative Work",
+          "date": "2026-06-21",
+          "status": "published",
+          "publishChannels": [
+            "facebook",
+            "instagram",
+            "twitter",
+            "youtube"
+          ],
+          "publishedAt": "2026-06-21T17:15:00.000Z",
+          "generatedContent": {
+            "caption": "Consistency beats talent when talent doesn't work hard. Every single day you spend honing your craft is a step closer to mastery. What are you focused on today? 👇",
+            "hashtags": [
+              "Creativity",
+              "Habits",
+              "GrowthMindset",
+              "Productivity"
+            ],
+            "graphicType": "quote",
+            "graphicText": "Consistency is the secret sauce. Rome was not built in a day, but they laid bricks every single hour.",
+            "graphicTitle": "DAILY INSIGHT",
+            "graphicDesign": {
+              "bgColor": "#1e1e2e",
+              "textColor": "#cdd6f4",
+              "accentColor": "#89b4fa",
+              "layoutFamily": "mono",
+              "pattern": "dots"
+            },
+            "videoScript": {
+              "title": "Why Consistency Always Wins",
+              "visualPrompt": "Close-up of a drop of water carving a smooth canyon through stone, stylized, calm mood",
+              "narration": [
+                "Ever wonder why some talented people never break through?",
+                "It's because they depend on inspiration, not systems.",
+                "A drop of water carves a canyon not through force, but through relentless repetition.",
+                "Pick one small task today, do it for just 15 minutes, and feel the power of consistency."
+              ],
+              "visualStory": [
+                "Extreme close up of concrete dripping under elegant rain",
+                "Split-screen of journaling on paper next to screen layout",
+                "Timelapse of design sketches taking shape instantly",
+                "Minimal bold typographic layout: JUST 15 MINUTES DAILY"
+              ],
+              "musicMood": "Chill Instrumental Lofi",
+              "durationSeconds": 30
+            }
+          }
+        }
+      ],
+      "channels": [
+        {
+          "id": "facebook",
+          "name": "Facebook Page",
+          "connected": true,
+          "username": "ABEL Creatives Hub",
+          "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "instagram",
+          "name": "Instagram Business",
+          "connected": true,
+          "username": "@abel.creatives",
+          "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "whatsapp",
+          "name": "WhatsApp Direct Share",
+          "connected": true,
+          "username": "07066332626",
+          "avatarUrl": "https://images.unsplash.com/photo-1575089980681-5418b76c1154?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "twitter",
+          "name": "X / Twitter",
+          "connected": true,
+          "username": "@creative_tweets",
+          "avatarUrl": "https://images.unsplash.com/photo-1611605698335-8b1569810432?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "youtube",
+          "name": "YouTube Shorts",
+          "connected": true,
+          "username": "AuraChannel",
+          "avatarUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=150&h=150"
+        }
+      ],
+      "logs": [
+        {
+          "id": "log_1",
+          "topicId": "topic_1",
+          "topicTitle": "The Power of Consistency in Creative Work",
+          "channel": "facebook",
+          "action": "posting",
+          "status": "success",
+          "message": "Successfully published caption and custom graphic card layout.",
+          "timestamp": "2026-06-21T17:15:00.000Z"
+        }
+      ]
+    },
+    "guest": {
+      "topics": [
+        {
+          "id": "topic_1",
+          "topic": "The Power of Consistency in Creative Work",
+          "date": "2026-06-21",
+          "status": "published",
+          "publishChannels": [
+            "facebook",
+            "instagram",
+            "twitter",
+            "youtube"
+          ],
+          "publishedAt": "2026-06-21T17:15:00.000Z",
+          "generatedContent": {
+            "caption": "Consistency beats talent when talent doesn't work hard. Every single day you spend honing your craft is a step closer to mastery. What are you focused on today? 👇",
+            "hashtags": [
+              "Creativity",
+              "Habits",
+              "GrowthMindset",
+              "Productivity"
+            ],
+            "graphicType": "quote",
+            "graphicText": "Consistency is the secret sauce. Rome was not built in a day, but they laid bricks every single hour.",
+            "graphicTitle": "DAILY INSIGHT",
+            "graphicDesign": {
+              "bgColor": "#1e1e2e",
+              "textColor": "#cdd6f4",
+              "accentColor": "#89b4fa",
+              "layoutFamily": "mono",
+              "pattern": "dots"
+            },
+            "videoScript": {
+              "title": "Why Consistency Always Wins",
+              "visualPrompt": "Close-up of a drop of water carving a smooth canyon through stone, stylized, calm mood",
+              "narration": [
+                "Ever wonder why some talented people never break through?",
+                "It's because they depend on inspiration, not systems.",
+                "A drop of water carves a canyon not through force, but through relentless repetition.",
+                "Pick one small task today, do it for just 15 minutes, and feel the power of consistency."
+              ],
+              "visualStory": [
+                "Extreme close up of concrete dripping under elegant rain",
+                "Split-screen of journaling on paper next to screen layout",
+                "Timelapse of design sketches taking shape instantly",
+                "Minimal bold typographic layout: JUST 15 MINUTES DAILY"
+              ],
+              "musicMood": "Chill Instrumental Lofi",
+              "durationSeconds": 30
+            }
+          }
+        }
+      ],
+      "channels": [
+        {
+          "id": "facebook",
+          "name": "Facebook Page",
+          "connected": true,
+          "username": "AuraCast-Media",
+          "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "instagram",
+          "name": "Instagram Business",
+          "connected": true,
+          "username": "@abel.creatives",
+          "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "whatsapp",
+          "name": "WhatsApp Direct Share",
+          "connected": true,
+          "username": "WhatsApp Business Account",
+          "avatarUrl": "https://images.unsplash.com/photo-1575089980681-5418b76c1154?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "twitter",
+          "name": "X / Twitter",
+          "connected": true,
+          "username": "@creative_tweets",
+          "avatarUrl": "https://images.unsplash.com/photo-1611605698335-8b1569810432?auto=format&fit=crop&q=80&w=150&h=150"
+        },
+        {
+          "id": "youtube",
+          "name": "YouTube Shorts",
+          "connected": true,
+          "username": "AuraChannel",
+          "avatarUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=150&h=150"
+        }
+      ],
+      "strategy": {
+        "id": "strat_seed_1",
+        "brandNameOrNiche": "Christian Motivational & Growth Page for Young Nigerians",
+        "primaryGoals": [
+          "Brand Awareness",
+          "Community Engagement",
+          "Leads & Growth"
+        ],
+        "postingFrequency": "5 Days / Week",
+        "targetPersona": {
+          "name": "Emmanuel & Blessing (Faith-Driven Gen Z & Millennials)",
+          "ageGroup": "18 - 32 years",
+          "location": "Lagos, Abuja, Port Harcourt & Diaspora",
+          "painPoints": [
+            "Career uncertainty and anxiety about personal purpose",
+            "Finding spiritual grounding amidst daily economic pressure",
+            "Staying consistent with personal discipline and faith"
+          ],
+          "aspirations": [
+            "Achieve career & entrepreneurial breakthroughs",
+            "Build a strong spiritual foundation & supportive community",
+            "Live with clarity, mental strength, and purpose"
+          ],
+          "preferredPlatforms": [
+            "Instagram",
+            "WhatsApp",
+            "Facebook",
+            "Twitter"
+          ]
+        },
+        "contentPillars": [
+          {
+            "title": "Faith & Purpose",
+            "description": "Scriptural encouragement, morning devotionals & daily purpose reminders",
+            "percentageAllocation": 35
+          },
+          {
+            "title": "Overcoming Failure & Resilience",
+            "description": "Real testimonies, mindset shifts, and practical steps to bounce back",
+            "percentageAllocation": 25
+          },
+          {
+            "title": "Biblical Wisdom for Modern Life",
+            "description": "Practical applications of ancient wisdom to career, money & relationships",
+            "percentageAllocation": 20
+          },
+          {
+            "title": "Personal Growth & Discipline",
+            "description": "Actionable productivity habits, study routines & goal setting",
+            "percentageAllocation": 20
+          }
+        ],
+        "competitorGapAnalysis": "Most motivational pages output generic quotes without local cultural resonance or actionable daily habits. AuraCast's edge is combining deep spiritual encouragement with highly practical career & mental discipline frameworks, delivered in bite-sized visual graphic cards and WhatsApp broadcast notes.",
+        "weeklyPlan": [
+          {
+            "weekNumber": 1,
+            "theme": "Faith & Purpose in Uncertain Times",
+            "objective": "Brand Awareness & Follower Attraction",
+            "contentPillars": [
+              "Faith & Purpose",
+              "Personal Growth & Discipline"
+            ],
+            "recommendedPlatforms": [
+              "instagram",
+              "whatsapp",
+              "facebook",
+              "twitter"
+            ],
+            "suggestedTopics": [
+              {
+                "topic": "3 Daily Prayers & Habits to Start Your Morning with Unshakable Clarity",
+                "toneGoal": "educational",
+                "suggestedChannels": [
+                  "instagram",
+                  "whatsapp",
+                  "facebook"
+                ],
+                "format": "Graphic Carousel + Morning Broadcast Note"
+              },
+              {
+                "topic": "Why Your Current Setback Is Preparing You for a Bigger Platform",
+                "toneGoal": "mindset",
+                "suggestedChannels": [
+                  "instagram",
+                  "twitter"
+                ],
+                "format": "High-Impact Quote Card + Short Reel Script"
+              },
+              {
+                "topic": "Faith in Action: How to Trust God While Building Your Career Skills Daily",
+                "toneGoal": "storytelling",
+                "suggestedChannels": [
+                  "facebook",
+                  "whatsapp"
+                ],
+                "format": "Direct Broadcast Note + Interactive Q&A"
+              }
+            ]
+          },
+          {
+            "weekNumber": 2,
+            "theme": "Overcoming Failure & Mindset Breakthroughs",
+            "objective": "Community Engagement & Discussion",
+            "contentPillars": [
+              "Overcoming Failure & Resilience",
+              "Faith & Purpose"
+            ],
+            "recommendedPlatforms": [
+              "instagram",
+              "whatsapp",
+              "twitter"
+            ],
+            "suggestedTopics": [
+              {
+                "topic": "When You Fail a Test or Interview: 4 Biblical Steps to Reset Your Focus",
+                "toneGoal": "educational",
+                "suggestedChannels": [
+                  "instagram",
+                  "twitter"
+                ],
+                "format": "Infographic Checklist + Storyboard Script"
+              },
+              {
+                "topic": "The Danger of Comparing Your Chapter 1 to Someone Else's Chapter 20",
+                "toneGoal": "conversational",
+                "suggestedChannels": [
+                  "whatsapp",
+                  "facebook"
+                ],
+                "format": "Personal Reflection Post + Discussion Prompt"
+              }
+            ]
+          },
+          {
+            "weekNumber": 3,
+            "theme": "Biblical Wisdom for Career & Financial Stewardship",
+            "objective": "Authority & Value Delivery",
+            "contentPillars": [
+              "Biblical Wisdom for Modern Life",
+              "Personal Growth & Discipline"
+            ],
+            "recommendedPlatforms": [
+              "instagram",
+              "facebook",
+              "whatsapp"
+            ],
+            "suggestedTopics": [
+              {
+                "topic": "5 Proverb Principles Every Young Entrepreneur and Creative Must Know",
+                "toneGoal": "educational",
+                "suggestedChannels": [
+                  "instagram",
+                  "facebook"
+                ],
+                "format": "Minimalist Infographic + Actionable Steps"
+              },
+              {
+                "topic": "How to Build Financial Discipline as a Young Professional in Nigeria",
+                "toneGoal": "storytelling",
+                "suggestedChannels": [
+                  "whatsapp",
+                  "twitter"
+                ],
+                "format": "Broadcast Newsletter + Practical Budget Checklist"
+              }
+            ]
+          },
+          {
+            "weekNumber": 4,
+            "theme": "Personal Growth, Habits & Consistency",
+            "objective": "Community Growth & Retention",
+            "contentPillars": [
+              "Personal Growth & Discipline",
+              "Faith & Purpose"
+            ],
+            "recommendedPlatforms": [
+              "instagram",
+              "whatsapp",
+              "youtube"
+            ],
+            "suggestedTopics": [
+              {
+                "topic": "Building Atomic Habits: The 15-Minute Daily Routine for Spiritual and Skill Mastery",
+                "toneGoal": "mindset",
+                "suggestedChannels": [
+                  "instagram",
+                  "youtube",
+                  "whatsapp"
+                ],
+                "format": "Short Video Storyboard + Quote Graphic Card"
+              },
+              {
+                "topic": "End of Month Gratitude & Goal Alignment Checklist for the Month Ahead",
+                "toneGoal": "conversational",
+                "suggestedChannels": [
+                  "whatsapp",
+                  "instagram",
+                  "facebook"
+                ],
+                "format": "Interactive Community Checklist + Devotional Note"
+              }
+            ]
+          }
+        ],
+        "createdAt": "2026-09-28T09:59:54.502Z"
+      },
+      "logs": [
+        {
+          "id": "log_1",
+          "topicId": "topic_1",
+          "topicTitle": "The Power of Consistency in Creative Work",
+          "channel": "facebook",
+          "action": "posting",
+          "status": "success",
+          "message": "Successfully published caption and custom graphic card layout.",
+          "timestamp": "2026-06-21T17:15:00.000Z"
+        }
+      ]
+    }
+  }
+}
